@@ -2,39 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>大白Mac 一个就够</title>
-    <link>http://example.org/</link>
+    <link>https://o--o.win/</link>
     <description>Recent content on 大白Mac 一个就够</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Tue, 22 Oct 2019 18:46:47 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://o--o.win/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>http://example.org/about/</link>
+      <link>https://o--o.win/about/</link>
       <pubDate>Tue, 22 Oct 2019 18:46:47 +0800</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>https://o--o.win/about/</guid>
       <description>about me</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://example.org/home/</link>
+      <link>https://o--o.win/home/</link>
       <pubDate>Tue, 22 Oct 2019 18:46:47 +0800</pubDate>
       
-      <guid>http://example.org/home/</guid>
+      <guid>https://o--o.win/home/</guid>
       <description>about me</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://example.org/post/</link>
+      <link>https://o--o.win/post/</link>
       <pubDate>Tue, 22 Oct 2019 18:46:47 +0800</pubDate>
       
-      <guid>http://example.org/post/</guid>
+      <guid>https://o--o.win/post/</guid>
       <description>about me</description>
     </item>
     
