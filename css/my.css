@@ -1,0 +1,8 @@
+@font-face{
+    font-family: SSourceHanSerifSC-Heavy;
+    src: url(../fonts/SourceHanSerifSC-Heavy.otf)
+}
+
+body {
+    font-family: 'SourceHanSerifSC-Heavy', Arial, sans-serif;
+}
