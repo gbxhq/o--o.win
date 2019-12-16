@@ -48,6 +48,7 @@
 }
 
 .og-expander-inner {
+	font-family: Arial, Helvetica, sans-serif;
 	padding: 50px 30px;
 	height: 100%;
 }
@@ -119,7 +120,7 @@
 	font-weight: 400;
 	font-size: 16px;
 	line-height: 22px;
-	color: #999;
+	color: #000000;
 }
 
 .og-details a {
@@ -142,8 +143,8 @@
 }
 
 .og-details a:hover {
-	border-color: #999;
-	color: #999;
+	border-color: #000000;
+	color: #000000;
 }
 
 .og-loading {
