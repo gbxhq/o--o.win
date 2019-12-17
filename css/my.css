@@ -4,10 +4,14 @@
 }
 
 body {
-    font-family: "FZYanSongM", Arial, sans-serif;
+    font-family: Arial, sans-serif;
     /* background:#f9f9f9 url(../img/background.png) */
     background-image: linear-gradient(90deg, rgba(180, 180, 180, 0.15) 50%, rgba(0, 0, 0, 0) 50%),
     linear-gradient(rgba(180, 180, 180, 0.15) 50%, rgba(0, 0, 0, 0) 50%); background-size: 10px 10px;   
+}
+
+h1 {
+	font-family: "FZYanSongM";
 }
 
 /* 展开内部 */
@@ -19,6 +23,14 @@ body {
 	line-height: 22px;
 	color: #999;
 } */
+
+#vcomments {
+	position: relative;
+	max-width:960px;
+	overflow-x:auto;
+	margin:0 auto;
+	background-color: #fff;
+}
 
 .og-expander-inner {
 	padding: 50px 0px;
