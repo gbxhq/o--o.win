@@ -29,6 +29,7 @@ h1 {
 	max-width:1000px;
 	overflow-x:auto;
 	margin:20px auto;
+	/* 上面是让div居中 */
 	background-color: #fff;
 	border-radius: 20px;
 	text-align:center
